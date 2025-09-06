@@ -28,9 +28,9 @@ The project is implemented in a **Jupyter Notebook** (`.ipynb`) and uses a datas
 
 📊 Results
 
-Training Accuracy: ~XX%
+Training Accuracy: ~73%
 
-Validation Accuracy: ~XX%
+Validation Accuracy: ~73%
 
 Example predictions are shown inside the notebook.
 
